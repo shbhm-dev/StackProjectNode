@@ -103,10 +103,6 @@ router.post(
   }
 );
 
-//Assignment - remove upvoting
-// Delete questions
-//Delete all question
 
-//Create a separate route for linux question
 
 module.exports = router;
